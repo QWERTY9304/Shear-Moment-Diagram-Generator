@@ -187,7 +187,10 @@ Current assumptions and limitations include:
 Shear-Moment-Diagram-Generator/
 │
 ├── ShearMoment.m
-└── README.md
+├── README.md
+├── example_case.md
+├── example_output.png
+└── window_output.png
 ```
 
 ## Technologies
