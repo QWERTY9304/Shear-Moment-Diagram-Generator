@@ -4,6 +4,14 @@ A MATLAB-based beam analysis tool that calculates support reactions and generate
 
 The program uses an interactive command-line interface that allows the user to define the beam geometry, supports, applied loads, and moments. It then evaluates the loading conditions and automatically generates shear force and bending moment diagrams.
 
+## Example Output
+
+The following example demonstrates the program analyzing a beam with a point load, uniform distributed load, and linearly varying distributed load.
+
+![Example shear force and bending moment diagrams](example_output.png)
+
+[View the full example case](example_case.md)
+
 ## Features
 
 * Interactive MATLAB command-line input
