@@ -156,6 +156,12 @@ Number, magnitude, and location of applied moments
 
 The program then calculates the support reactions and automatically generates the corresponding diagrams.
 
+## Command Window Example
+
+The program uses an interactive MATLAB command-line interface to define the beam geometry, supports, and applied loading. The calculated support reactions are displayed after the inputs are entered.
+
+![MATLAB command window example](window_output.png)
+
 ## Numerical Method
 
 Distributed loads are represented as load-intensity functions along the beam.
